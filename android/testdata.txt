@@ -1,0 +1,4 @@
+John Doe|Anycity|ST|12345|(800) 555-1212
+Jane Doe|Anycity|ST|12345|(800) 555-1234
+Fred Flinststone|Bedrock|ZZ|98765|(800) 555-4321
+Wilma Flintstone|Bedrock|ZZ|98765|(800) 555-4321

@@ -1,0 +1,17 @@
+USE [OriTMS_Docomo]
+GO
+/****** Object:  Trigger [dbo].[tgr_external]    Script Date: 11/20/2013 16:57:34 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TRIGGER [dbo].[tgr_external2]
+ON [dbo].[user_wfm_exception] -- table_name
+-- WITH ENCRYPTION
+FOR DELETE, INSERT, UPDATE
+-- WITH APPEND
+-- NOT FOR REPLICATION
+AS
+exec master.dbo.xp_cmdshell 'C:\\scripts\\python\\dist\\test.exe ely'
+-- insert sql here
+

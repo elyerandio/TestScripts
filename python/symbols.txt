@@ -1,0 +1,4 @@
+goog
+nyt
+aapl
+ssnlf

@@ -1,0 +1,466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>AAPL: Summary for Apple Inc.- Yahoo! Finance</title>
+<meta name="description" xml:space="default" content="View the basic AAPL stock chart on Yahoo! Finance. Change the date range, chart type and compare Apple Inc. against
+other companies."><meta name="keywords" content="AAPL, Apple Inc., AAPL stock chart, Apple Inc. stock chart, stock chart, stocks, quotes, finance"><meta property="fb:app_id" content="118155468215844"><meta property="fb:admins" content="503762770,100001149693905"><meta property="og:type" content="company"><meta property="og:site_name" content="Yahoo! Finance"><meta property="og:title" content="Apple Inc."><meta property="og:image" content="http://l.yimg.com/a/p/fi/31/09/00.jpg"><meta property="og:url" content="http://finance.yahoo.com/q?s=AAPL"><meta property="og:description" content="View the basic AAPL stock chart on Yahoo! Finance. Change the date range, chart type and compare Apple Inc. against
+other companies."><link rel="canonical" href="http://finance.yahoo.com/q?s=AAPL">
+<link rel="stylesheet" href="http://l.yimg.com/zz/combo?kx/yucs/uh3/uh/css/779/uh_non_mail-min.css&amp;kx/yucs/uh3/uh3_top_bar/css/260/no_icons-min.css&amp;kx/yucs/uh3/uh3_top_bar/css/258/persistent-min.css&amp;kx/yucs/uh3/search/css/439/blue_border-min.css&amp;kx/yucs/uh3/breakingnews/css/1/breaking_news-min.css&amp;kx/yucs/uh3/uh3_contextual_shortcuts/css/6/generic.css&amp;bm/lib/fi/common/p/d/static/css/2.0.291395/2.0.0/mini/yfi_quote_summary_lego_concat.css&amp;bm/lib/fi/common/p/d/static/css/2.0.291395/2.0.0/mini/yfi_symbol_suggest.css&amp;bm/lib/fi/common/p/d/static/css/2.0.291395/2.0.0/mini/yui_helper.css&amp;bm/lib/fi/common/p/d/static/css/2.0.291395/2.0.0/mini/yfi_theme_teal.css" type="text/css">
+</head>
+
+<body id="yfi_quote_summary_page" class="intl-us  gsg-0">
+<div id="yfi_hd"><div class="yfi_doc"><div class=""><style>#header{width:100% !important}#yucs #yucs-search .yucs-button_theme{background:-moz-linear-gradient(top, #3586a0 0, #307289 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #3586a0), color-stop(100%, #307289));background:-webkit-linear-gradient(top, #3586a0 0, #307289 100%);background:-o-linear-gradient(top, #3586a0 0, #307289 100%);background:-ms-linear-gradient(top, #3586a0 0, #307289 100%);background:linear-gradient(to bottom, #3586a0 0, #307289 100%);-webkit-box-shadow:inset 0 1px 3px 0 #27b1c5;box-shadow:inset 0 1px 3px 0 #27b1c5;background-color:#3586a0;background-color:transparent\0/IE9;background-color:transparent\9;*background:none;border:1px solid #224654}#yucs #yucs-search #yucs-prop_search_button_wrapper .yucs-gradient{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3586a0', endColorstr='#307289',GradientType=0 );-ms-filter:"progid:DXImageTransform.Microsoft.gradient( startColorstr='#3586a0', endColorstr='#307289',GradientType=0 )";background-color:#3586a0\0/IE9}#yucs #yucs-search #yucs-prop_search_button_wrapper{*border:1px solid #224654}.yog-page #yog-hd.yog-grid #yucs,#yucsHead{background:#0c3443 !important;background-image:-moz-linear-gradient(left, #114b60 0, #196f8d 15%, #0c3443 60%) !important;background-image:-webkit-gradient(linear, left top, right top, color-stop(0, #114b60), color-stop(0.15, #196f8d), color-stop(1, #0c3443)) !important}.yog-page #yog-hd.yog-grid #yucsHead{background:none !important;background-image:none !important}#yucs-search #yucs-satray{width:445px !important}.yog-page #yog-hd.yog-grid #header,#yucs-top-bar{width:100% !important}</style><style>#yucs-top-home .yucs-top-txt {text-indent: 0px; margin-left: 20px;}
+#y-nav .yom-nav {padding-top: 0px;}
+
+#ysp-search-assist .bd {display:none;}
+#ysp-search-assist h4 {padding-left: 8px;}
+
+#yfi-portfolios-multi-quotes #y-nav, #yfi-portfolios-multi-quotes #navigation, #yfi-portfolios-multi-quotes .y-nav-legobg, 
+#yfi-portfolios-my-portfolios #y-nav, #yfi-portfolios-my-portfolios #navigation, #yfi-portfolios-my-portfolios .y-nav-legobg 
+{width : 100%; }
+
+#bodyID #yg-uh-space {}
+#bodyID #yg-uh {margin-top: 0px;}</style><div id="yucsHead" class="yucs-finance yucs-en-us "><div id="yucs-top-bar" class='yucs-ps'>    <div id='yucs-top-inner'>        <ul id='yucs-top-list'>            <li id='yucs-top-home'><a href="http://www.yahoo.com/"><span class="sp yucs-top-ico"></span>Home</a></li>            <li id='yucs-top-mail'><a href="http://mail.yahoo.com/">Mail</a></li>            <li id='yucs-top-news'><a href="http://news.yahoo.com/">News</a></li>            <li id='yucs-top-sports'><a href="http://sports.yahoo.com/">Sports</a></li>            <li id='yucs-top-finance'><a href="http://finance.yahoo.com/">Finance</a></li>            <li id='yucs-top-weather'><a href="http://weather.yahoo.com/"">Weather</a></li>            <li id='yucs-top-games'><a href="http://games.yahoo.com/">Games</a></li>            <li id='yucs-top-groups'><a href="http://groups.yahoo.com/">Groups</a></li>            <li id='yucs-top-answers'><a href="http://answers.yahoo.com/">Answers</a></li>            <li id='yucs-top-screen'><a href="http://screen.yahoo.com/">Screen</a></li>            <li id='yucs-top-flickr'><a href="http://www.flickr.com/">Flickr</a></li>            <li id='yucs-more' class='yucs-menu yucs-more-activate' data-ylt="/"><a href="javascript:void(0);" id='yucs-more-link' class='yucs-leavable'>More<span class="sp yucs-top-ico"></span></a>                <div id='yucs-top-menu'>                    <div class='yui3-menu-content'>                        <ul class='yucs-hide yucs-leavable'>                            <li id='yucs-top-omg'><a href="http://omg.yahoo.com/">omg!</a></li>                            <li id='yucs-top-shine'><a href="http://shine.yahoo.com/">Shine</a></li>                            <li id='yucs-top-movies'><a href="http://movies.yahoo.com/">Movies</a></li>                            <li id='yucs-top-music'><a href="http://music.yahoo.com/">Music</a></li>                            <li id='yucs-top-tv'><a href="http://tv.yahoo.com/">TV</a></li>                            <li id='yucs-top-health'><a href="http://health.yahoo.com/">Health</a></li>                            <li id='yucs-top-shopping'><a href="http://shopping.yahoo.com/">Shopping</a></li>                            <li id='yucs-top-travel'><a href="http://travel.yahoo.com/">Travel</a></li>                            <li id='yucs-top-autos'><a href="http://autos.yahoo.com/">Autos</a></li>                            <li id='yucs-top-homes'><a href="http://homes.yahoo.com/">Homes</a></li>                            <li id='yucs-top-mobile'><a href="http://mobile.yahoo.com/">Mobile</a></li>                                               </ul>                    </div>                </div>            </li>        </ul>    </div></div><div id="yucs" class="yucs-mc lt yucs-b2 yog-grid" data-lang="en-us" data-property="finance" data-flight="1382063737" data-linktarget="_top" data-uhvc="/">        <div class="yucs-fl-left yog-cp">         <div id="yucs-logo">    <style>        #yucs #yucs-logo-ani {          width:120px ;          height:34px;          background-image:url(http://l.yimg.com/rz/l/yahoo_finance_en-US_f_pw_119x34.png) ;          _background-image:url(http://l.yimg.com/rz/l/yahoo_finance_en-US_f_pw_119x34.gif) ;          *left: 0px;          display:block ;          overflow: hidden;          visibility:hidden;          clip: rect(22px,120px,42px,0px);         *clip: rect(22px 120px 42px 0px);         position: absolute;        }                .lt #yucs-logo-ani {        background-position: 100% 0px !important;        }                #yucs-logo {        margin-top:0px!important;        padding-top: 11px;        width: 120px;        }                #yucs[data-property='homes'] #yucs-logo {            width: 102px;        }        #yucs #yucs-logo a {margin-left: 0!important;}#yucs #yucs-link-ani {width: 100% !important;}        @media        only screen and (-webkit-min-device-pixel-ratio: 2),        only screen and ( min--moz-device-pixel-ratio: 2),        only screen and ( -o-min-device-pixel-ratio: 2/1),        only screen and ( min-device-pixel-ratio: 2),        only screen and ( min-resolution: 192dpi),        only screen and ( min-resolution: 2dppx) {         #yucs #yucs-logo-ani  {                background-image: url(http://l.yimg.com/rz/l/yahoo_finance_en-US_f_pw_119x34_2x.png) !important;                background-size: 240px 34px;            }            }        }    </style>        <div>        <a id="yucs-logo-ani" href="http://finance.yahoo.com"           target="_top" data-alg="">          Yahoo Finance        </a>    </div></div><noscript><style>#yucs #yucs-logo-ani {visibility: visible;position: relative;clip: auto;}</style></noscript><script charset='utf-8' type='text/javascript' src='http://l.yimg.com/kx/yucs/uh3/uh/js/5/ai.min.js'></script><script>function isIE() {var myNav = navigator.userAgent.toLowerCase();return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;}function loadAnimAfterOnLoad() {if (typeof Aniden != 'undefined'&& Aniden.play&& (document.getElementById('yucs').getAttribute('data-property') !== 'mail' || document.getElementById('yucs-logo-ani').getAttribute('data-alg'))) {Aniden.play();}}  if (isIE()) {var _animPltTimer = setTimeout(function() {this.loadAnimAfterOnLoad();}, 6000);} else {document.addEventListener("Aniden.animReadyEvent", function() {loadAnimAfterOnLoad();},true);}</script>    <div id="yucs-search"  style="width: 570px; display: block;" class=' yucs-search-activate'>    <form role="search" class="yucs-search yucs-activate" target="_top"        data-webaction="http://search.yahoo.com/search"        action="http://finance.yahoo.com/q"        method="get">        <table role="presentation">            <tbody role="presentation">                <tr role="presentation">                    <td class="yucs-form-input" role="presentation">                        <input autocomplete="off" class="yucs-search-input" name="s" type="search"                            aria-describedby="mnp-search_box"                            data-yltvsearch="http://finance.yahoo.com/q"                            data-yltvsearchsugg="/"                            data-satype="mini"                            data-gosurl="http://d.yimg.com/aq/autoc"                            data-pubid="666"                            data-maxresults=""                            id="mnp-search_box"/>                    </td><td NOWRAP class="yucs-form-btn" role="presentation"><div id="yucs-prop_search_button_wrapper" class="yucs-search-buttons"><div class="yucs-shadow"><div class="yucs-gradient"></div></div><button id="yucs-sprop_button" class="yucs-action_btn yucs-button_theme yucs-vsearch-button" type="submit"                            data-vfr="uhb2" data-searchNews="uh3_finance_vert"                            data-vsearch="http://finance.yahoo.com/q">Search Finance</button></div><div id="yucs-web_search_button_wrapper" class="yucs-search-buttons"><div class="yucs-shadow"><div class="yucs-gradient"></div></div><button id="yucs-search_button"                            class="yucs-action_btn yucs-wsearch-button"                            type="submit">Search Web</button></div></td></tr>            </tbody>    </table>    <input type="hidden" name="uhb" value="uhb2" data-searchNews="uh3_finance_vert" />    <input type="hidden" name="type" value="2button" />    <input type="hidden" id="fr" name="fr" value="uh3_finance_web" />            </form><div id="yucs-satray" class="sa-tray sa-hidden"    data-wstext="Search Web for: "    data-wsearch="http://search.yahoo.com/search"    data-vfr="uhb2" data-searchNews="uh3_finance_vert"    data-vsearchAll="/"    data-vsearch="http://finance.yahoo.com/q"    data-vstext= "Search news for: "    data-vert_fin_search="http://finance.search.yahoo.com/search/"></div>    </div></div><div class="yucs-fl-right">  <div id="yucs-profile" class="yucs-profile yucs-signedout">    <a id="yucs-menu_link_profile_signed_out" href="https://login.yahoo.com/config/login?.src=quote&.intl=us&.lang=en-US&.done=http://finance.yahoo.com/q%3fs=AAPL%26ql=1"  target="_top" rel="nofollow" class="sp yucs-fc" aria-label="Profile">    </a>    <div id="yucs-profile_text" class="yucs-fc">        <a id="yucs-login_signIn" href="https://login.yahoo.com/config/login?.src=quote&.intl=us&.lang=en-US&.done=http://finance.yahoo.com/q%3fs=AAPL%26ql=1"  target="_top" rel="nofollow" class="yucs-fc">            Sign In        </a>    </div></div>  <div class="yucs-mail_link yucs-mailpreview-ancestor"><a id="yucs-mail_link_id" class="sp yltasis yucs-fc" href="http://mail.yahoo.com/?.intl=us&.lang=en-US" rel="nofollow" target="_top">    Mail    </a><div class="yucs-mail-preview-panel yucs-menu yucs-hide" data-mail-txt="Mail"    data-uri-scheme="http"     data-uri-path="ucs.query.yahoo.com/v1/console/yql"     data-mail-view="Go to Mail"    data-mail-help-txt="Help"    data-mail-help-url="http://help.yahoo.com/l/us/yahoo/mail/ymail/"    data-mail-loading-txt="Loading..."    data-languagetag="en-us"    data-mrd-crumb=""    data-authstate="signedout"    data-middleauth-signin-text="Click here to view your mail"    data-popup-login-url="https://login.yahoo.com/config/login_verify2?.pd=c%3DOIVaOGq62e5hAP8Tv..nr5E3&.src=sc"    data-middleauthtext="You have {count} new messages."    data-yltmessage-link="http://mrd.mail.yahoo.com/msg?mid={msgID}&fid=Inbox&src=uh&.crumb="    data-yltviewall-link="http://mail.yahoo.com/"    data-yltpanelshown="/"    data-ylterror="/"    data-ylttimeout="/"    data-generic-error="We're unable to preview your mail.<br>Go to Mail."    data-nosubject="[No Subject]"    data-timestamp='short'></div></div>    <div id="yucs-help" class="yucs-activate yucs-help yucs-menu_nav">    <a id="yucs-help_button" class="sp yltasis"         href="javascript:void(0);"        aria-label="Help" rel="nofollow">        <em class="yucs-hide yucs-menu_anchor">Help</em>    </a>    <div id="yucs-help_inner" class="yucs-hide yucs-menu yucs-hm-activate"          data-yltmenushown="/">        <span class="sp yucs-dock"></span>        <ul id="yuhead-help-panel">            <li><a class="yucs-acct-link" href="https://edit.yahoo.com/mc2.0/eval_profile?.intl=us&.lang=en-US&.done=http://finance.yahoo.com/q%3fs=AAPL%26ql=1&amp;.src=quote&amp;.intl=us&amp;.lang=en-US" target="_top">Account Info</a></li>            <li><a href="http://help.yahoo.com/l/us/yahoo/finance/"                 rel="nofollow" >Help</a></li>            <span class="yucs-separator" role="presentation" style="display: block;"></span>            <li><a href="http://feedback.yahoo.com/forums/170326-us-finance"                  rel="nofollow" >Suggestions</a></li>        </ul>    </div></div>    <div id="yucs-network_link"><a id="yucs-home_link" href="http://www.yahoo.com/" rel="nofollow" target="_top">Yahoo</a></div>        <div     id="yucs-bnews"     class="yucs-activate slide yucs-hide"     data-linktarget="_top"    data-authstate="signedout"     data-deflink="http://news.yahoo.com"    data-deflinktext="Visit Yahoo News for the latest."    data-title="Breaking News"    data-close="Close this window"    data-lang="en-us"     data-property="finance"></div>     </div>               </div> <!-- contextual_shortcuts --><div id="yucs-contextual_shortcuts"data-property="finance"data-languagetag="en-us"data-status="active"data-spaceid=""data-cobrand="standard"></div><!-- /contextual_shortcuts --><!-- property: finance | languagetag: en-us | status: active | spaceid:  | cobrand: standard | markup: standard --><div     id="yucs-location-js"    class="yucs-hide yucs-offscreen yucs-location-activate"    data-appid="yahoo.locdrop.ucs.desktop"    data-crumb=""><!-- empty for ie --></div><div id="yUnivHead" class="yucs-hide"><!-- empty --></div></div></div><script type="text/javascript">
+		var yfi_dd = 'finance.yahoo.com';
+		ll_js = new Array();
+		
+			ll_js.push({
+			'file':'http://l.yimg.com/zz/combo?kx/yucs/uh3/uh/js/771/uh-min.js&kx/yucs/uh3/uh/js/102/gallery-jsonp-min.js&kx/yucs/uh3/uh/js/771/menu_utils_v3-min.js&kx/yucs/uh3/uh/js/771/timestamp_library-min.js&kx/yucs/uh3/uh3_top_bar/js/242/top_bar_v3-min.js&kx/yucs/uh3/uh3_top_bar/js/230/persistent-min.js&kx/yucs/uh3/search/js/443/search-min.js&kx/ucs/common/js/131/jsonp-super-cached-min.js&kx/yucs/uh3/avatar/js/25/avatar-min.js&kx/yucs/uh3/mail_link/js/66/mailcount-min.js&kx/yucs/uh3/help/js/53/help_menu_v3-min.js&kx/ucs/common/js/131/jsonp-cached-min.js&kx/yucs/uh3/breakingnews/js/5/breaking_news-min.js&kx/yucs/uh3/uh3_contextual_shortcuts/js/55/shortcuts-bootstrap.js&kx/yucs/uh3/location/js/7/uh_locdrop-min.js'
+			});
+		</script><script type="text/javascript">
+                if(typeof YAHOO == "undefined"){YAHOO={};}
+                if(typeof YAHOO.Finance == "undefined"){YAHOO.Finance={};}
+                if(typeof YAHOO.Finance.ComscoreConfig == "undefined"){YAHOO.Finance.ComscoreConfig={};}
+                YAHOO.Finance.ComscoreConfig={ "config" : [
+                        {
+                        c5: "83067333",
+                        c7: "http://finance.yahoo.com/q?s=AAPL&ql=1"
+                        }
+                ] }
+                ll_js.push({
+                            'file': 'http://l1.yimg.com/bm/lib/fi/common/p/d/static/js/2.0.291395/2.0.0/yfi_comscore.js'
+                });
+        </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7241469&amp;c4=http://finance.yahoo.com/q?s=AAPL&amp;ql=1&amp;c5=83067333&amp;cv=2.0&amp;cj=1"></noscript><style type="text/css">
+              .yfi-price-change-up{
+                color:#008800
+               }
+                    
+              .yfi-price-change-down{
+                color:#cc0000
+               }
+            </style></div></div><div class="ad_in_head"><div class="yfi_doc"><div style="text-align:center;"></div>
+
+</div></div><div id="y-nav"><div id="navigation" class="yom-mod yom-nav" role="navigation"><div class="bd"><div class="nav"><div class="y-nav-pri-legobg"><div id="y-nav-pri" class="nav-stack nav-0 yfi_doc"><ul class="yog-grid" id="y-main-nav"><li id="home"><a href="/"><span>Home</span></a></li><li id="investing"><a href="/marketupdate"><span>Investing</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/marketupdate/overview">Market Overview</a></li><li><a href="/actives?e=us">Market Stats</a></li><li><a href="http://biz.yahoo.com/r/">Stocks</a></li><li><a href="/funds/">Mutual Funds</a></li><li><a href="/etf/">ETFs</a></li><li><a href="/bonds">Bonds</a></li><li><a href="/options/">Options</a></li><li><a href="http://biz.yahoo.com/ic/">Industries</a></li><li><a href="/currency-investing">Currencies</a></li><li><a href="/education">Education</a></li><li><a href="/futures">Commodities</a></li></ul></li><li id="news"><a href="/news/"><span>News</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/news/category-stocks/">Markets</a></li><li><a href="/news/category-ideas-and-strategies/">Investing Ideas</a></li><li><a href="/special-editions/">Special Editions</a></li><li><a href="/news/category-earnings/">Company Finances</a></li><li><a href="/news/rssindex/">RSS Feeds</a></li><li><a href="/video/">Video</a></li><li><a href="/photos/">Photos & Interactives</a></li></ul></li><li id="personal%2520finance"><a href="/personal-finance/"><span>Personal Finance</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/career-education/">Career & Education</a></li><li><a href="/insurance/">Insurance</a></li><li><a href="/lifestyle/">Lifestyle</a></li><li><a href="/loans/">Loans</a></li><li><a href="/real-estate/">Real Estate</a></li><li><a href="/retirement/">Retirement</a></li><li><a href="/saving-spending/">Saving & Spending</a></li><li><a href="/taxes/">Taxes</a></li><li><a href="/glossary/">Glossary</a></li><li><a href="/personal-finance/your-money-101/">Your Money 101</a></li></ul></li><li class="nav-fin-portfolios"><a id="yfmya" href="/portfolios.html"><span>My Portfolios</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/portfolios/">Sign in to access My Portfolios</a></li><li><a href="http://billing.finance.yahoo.com/realtime_quotes/signup?.src=quote&amp;.refer=nb">Free trial of Real-Time Quotes</a></li></ul></li><li id="exclusives"><a href="/blogs/"><span>Exclusives</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/blogs/breakout/">Breakout</a></li><li><a href="/blogs/daily-ticker/">The Daily Ticker</a></li><li><a href="/blogs/the-exchange/">The Exchange</a></li><li><a href="/blogs/michael-santoli">Unexpected Returns</a></li><li><a href="http://financiallyfit.yahoo.com/finance/">Financially Fit</a></li><li><a href="/blogs/just-explain-it">Just Explain It</a></li><li><a href="/blogs/hot-stock-minute">Hot Stock Minute</a></li><li><a href="/blogs/cost-of-living/">Cost of Living</a></li></ul></li><li id="cnbc"><a href="/topics/cnbc-todays-news/"><span>CNBC</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/blogs/big-data-download">Big Data Download</a></li><li><a href="/blogs/off-the-cuff/">Off the Cuff</a></li><li><a href="/blogs/power-pitch/">Power Pitch</a></li><li><a href="/blogs/talking-numbers/">Talking Numbers</a></li><li><a href="/news/provider-cnbc/">Latest Headlines</a></li></ul></li></ul></div></div>      </div></div></div><script>
+        
+        (function(el) {
+            function focusHandler(e){
+                if (e && e.target){
+                    e.target == document ? null : e.target;
+                    document.activeElement = e.target;
+                }
+            }
+            // Handle !IE browsers that do not support the .activeElement property
+            if(!document.activeElement){
+                if (document.addEventListener){ 
+                    document.addEventListener("focus", focusHandler, true);
+                }
+            }
+        })(document);
+        
+        </script><div class="y-nav-legobg"><div class="yfi_doc"><div id="y-nav-sec" class="clear"><div id="searchQuotes" class="ticker-search mod" mode="search"><div class="hd"></div><div class="bd"><form id="quote" name="quote" action="/q"><h2 class="yfi_signpost">Search for share prices</h2><label for="txtQuotes">Search for share prices</label><input id="txtQuotes" name="s" value="" type="text" autocomplete="off" placeholder="Enter Symbol"><input id="get_quote_logic_opt" name="ql" value="1" type="hidden" autocomplete="off"><div id="yfi_quotes_submit"><span><span><span><input type="submit" value="Look Up" id="btnQuotes" class="rapid-nf"></span></span></span></div></form></div><div class="ft"><a href="http://finance.search.yahoo.com?fr=fin-v1">Finance Search</a><p><span id="yfs_market_time">Thu, Oct 17, 2013, 10:35PM EDT - U.S. Markets closed</span></p></div></div></div></div></div></div>
+<div id="yfi_doc"><div id="yfi_bd">
+<span id="yfs_ad_" ></span><div class="streaming_toggle"><div id="marketindices">&nbsp;<span><a href="/q?s=%5EDJI">Dow</a></span>&nbsp;<span id="yfs_pp0_^dji"><img width="10" height="14" style="margin-right:-2px;" border="0" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="neg_arrow" alt="Down"> <b class="
+                yfi-price-change-down
+            ">0.01%</b></span>&nbsp;<span><a href="/q?s=%5EIXIC">Nasdaq</a></span>&nbsp;<span id="yfs_pp0_^ixic"><img width="10" height="14" style="margin-right:-2px;" border="0" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="pos_arrow" alt="Up"> <b class="
+      	        yfi-price-change-up
+            ">0.62%</b></span></div>
+<div id="yfi_pg_settings_icon">Streaming</div><div id="yfi_streaming_ticker_panel"><div id="yfi_streaming_quotes" class="yfi_streaming_quotes_p"> </div><div id="ticker_onoff"><span>Ticker Tape: </span><input type="hidden" name="tton" id="yfi_tt_on" value="1"><a onclick="tptoggleOnoffText(0); return false;"><span id="tt_on" style="display:inline;">On</span></a><a onclick="tptoggleOnoffText(1); return false;"><span id="tt_off" style="display:none;">Off</span></a></div></div></div><div id="yfi_investing_nav"><div class="hd"><h2>More On AAPL</h2></div><div class="bd"><h3>Quotes</h3><ul><li class="selected">Summary</li><li><a href="/q/ecn?s=AAPL+Order+Book">Order Book</a></li><li><a href="/q/op?s=AAPL+Options">Options</a></li><li><a href="/q/hp?s=AAPL+Historical+Prices">Historical Prices</a></li></ul><h3>Charts</h3><ul><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=1d">Interactive</a></li><li><a href="/q/bc?s=AAPL+Basic+Chart">Basic Chart</a></li><li><a href="/q/ta?s=AAPL+Basic+Tech.+Analysis">Basic Tech. Analysis</a></li></ul><h3>News &amp; Info</h3><ul><li><a href="/q/h?s=AAPL+Headlines">Headlines</a></li><li><a href="/q/p?s=AAPL+Press+Releases">Press Releases</a></li><li><a href="/q/ce?s=AAPL+Company+Events">Company Events</a></li><li><a href="/mb/AAPL/">Message Boards</a></li><li><a href="/marketpulse/AAPL">Market Pulse</a></li></ul><h3>Company</h3><ul><li><a href="/q/pr?s=AAPL+Profile">Profile</a></li><li><a href="/q/ks?s=AAPL+Key+Statistics">Key Statistics</a></li><li><a href="/q/sec?s=AAPL+SEC+Filings">SEC Filings</a></li><li><a href="/q/co?s=AAPL+Competitors">Competitors</a></li><li><a href="/q/in?s=AAPL+Industry">Industry</a></li><li><a href="/q/ct?s=AAPL+Components">Components</a></li></ul><h3>Analyst Coverage</h3><ul><li><a href="/q/ao?s=AAPL+Analyst+Opinion">Analyst Opinion</a></li><li><a href="/q/ae?s=AAPL+Analyst+Estimates">Analyst Estimates</a></li><li><a href="/q/rr?s=AAPL+Research+Reports">Research Reports</a></li></ul><h3>Ownership</h3><ul><li><a href="/q/mh?s=AAPL+Major+Holders">Major Holders</a></li><li><a href="/q/it?s=AAPL+Insider+Transactions">Insider Transactions</a></li><li><a href="/q/ir?s=AAPL+Insider+Roster">Insider Roster</a></li></ul><h3>Financials</h3><ul><li><a href="/q/is?s=AAPL+Income+Statement&amp;annual">Income Statement</a></li><li><a href="/q/bs?s=AAPL+Balance+Sheet&amp;annual">Balance Sheet</a></li><li><a href="/q/cf?s=AAPL+Cash+Flow&amp;annual">Cash Flow</a></li></ul></div><div class="ft"></div></div><div id="yfi_investing_content"><div class="yui-g bb-0"><script>
+	    document.domain='finance.yahoo.com';
+	</script><div id="yfi_broker_buttons"><div id="yfi_broker_buttons_original" class="clearfix"><!-- SpaceID=0 robot -->
+</div><div id="yfi_broker_banners" class="clearfix yfi-broker-banners"><div class="banner-strip"></div></div></div></div><div class="rtq_div"><div class="yui-g"><div class="yfi_rt_quote_summary" id="yfi_rt_quote_summary"><div class="hd"><div class="title"><h2>Apple Inc. (AAPL)</h2> <span class="rtq_exch"><span class="rtq_dash">-</span>NasdaqGS  </span><span class="wl_sign"></span></div></div><div class="yfi_rt_quote_summary_rt_top"><p> <span class="time_rtq_ticker"><span id="yfs_l84_aapl">504.50</span></span> <span class="up_g time_rtq_content"><span id="yfs_c63_aapl"><img width="10" height="14" style="margin-right:-2px;" border="0" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="pos_arrow" alt="Up">   3.39</span><span id="yfs_p43_aapl">(0.68%)</span> </span><span class="time_rtq"> <span id="yfs_t53_aapl"><span id="yfs_t53_aapl">4:00PM EDT</span></span></span><span class="rtq_separator">|</span>After Hours
+                                        :
+                                         <span class="yfs_rtq_quote"><span id="yfs_l86_aapl">506.77</span></span> <span class="up_g"><span id="yfs_c85_aapl"><img width="10" height="14" style="margin-right:-2px;" border="0" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="pos_arrow" alt="Up"> 2.27</span> <span id="yfs_c86_aapl"> (0.45%)</span></span><span class="time_rtq"> <span id="yfs_t54_aapl">7:59PM EDT</span></span></p></div><div id="yfi_toolbox_mini_rtq"><span class="fb-like-button"></span><script type="text/javascript">
+                            ll_js.push({
+                                'script':function(){
+                                    YUI().use('node', function (Y) {
+                                        var iframe = Y.Node.create('<iframe src="http://www.facebook.com/plugins/like.php?href=http://finance.yahoo.com%2Fq%3Fs%3DAAPL&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21&amp;width=100&amp;locale=en_US" scrolling="no" frameborder="0" allowTransparency="true" style="height:21px; width:95px;"></iframe>');
+                                        Y.one(".fb-like-button").append(iframe);
+                                    });
+                                }
+                            });
+                        </script><span class="add-to-portfolio-button"><a class="add-to-portfolio-icon" href="http://edit.finance.yahoo.com/ec?.src=quote&amp;.intl=us&amp;.sym=AAPL&amp;.done=http%3A%2F%2Ffinance.yahoo.com%2Fq%3Fs%3DAAPL%26ql%3D1"><span>Add to Portfolio</span></a></span></div></div></div></div><div class="yui-u first yfi-start-content"><div class="yfi_quote_summary"><div id="yfi_quote_summary_data" class="rtq_table"><table id="table1"><tr><th scope="row" width="48%">Prev Close:</th><td class="yfnc_tabledata1">501.11</td></tr><tr><th scope="row" width="48%">Open:</th><td class="yfnc_tabledata1">500.00</td></tr><tr><th scope="row" width="48%">Bid:</th><td class="yfnc_tabledata1"><span id="yfs_b00_aapl">506.70</span><small> x <span id="yfs_b60_aapl">100</span></small></td></tr><tr><th scope="row" width="48%">Ask:</th><td class="yfnc_tabledata1"><span id="yfs_a00_aapl">506.95</span><small> x <span id="yfs_a50_aapl">100</span></small></td></tr><tr><th scope="row" width="48%">1y Target Est:</th><td class="yfnc_tabledata1">549.25</td></tr><tr><th scope="row" width="48%">Beta:</th><td class="yfnc_tabledata1">0.58</td></tr><tr><th scope="row" width="54%">Next Earnings Date:</th><td class="yfnc_tabledata1">28-Oct-13<span id="earn_cal_div"><a onclick="window.open('http://calendar.yahoo.com/?v=60&amp;ST=20131028&amp;TITLE=AAPL Earnings announcement&amp;VIEW=d&amp;REM1=7d&amp;REM2=1d', 'earnwin', 'toolbars=no,scrollbars=no')"><img class="earn_cal_icon" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" alt="AAPL Earnings announcement" title="AAPL Earnings announcement" id="earn_cal_img"></a></span></td></tr></table><table id="table2"><tr><th scope="row" width="48%">Day's Range:</th><td class="yfnc_tabledata1"><span><span id="yfs_g53_aapl">499.68</span></span> - <span><span id="yfs_h53_aapl">504.78</span></span></td></tr><tr><th scope="row" width="48%">52wk Range:</th><td class="yfnc_tabledata1"><span>385.10</span> - <span>635.38</span></td></tr><tr><th scope="row" width="48%">Volume:</th><td class="yfnc_tabledata1"><span id="yfs_v53_aapl">9,056,905</span></td></tr><tr><th scope="row" width="48%">Avg Vol <span class="small">(3m)</span>:</th><td class="yfnc_tabledata1">12,866,900</td></tr><tr><th scope="row" width="48%">Market Cap:</th><td class="yfnc_tabledata1"><span id="yfs_j10_aapl">458.34B</span></td></tr><tr><th scope="row" width="48%">P/E <span class="small">(ttm)</span>:</th><td class="yfnc_tabledata1">12.58</td></tr><tr><th scope="row" width="48%">EPS <span class="small">(ttm)</span>:</th><td class="yfnc_tabledata1">40.11</td></tr><tr class="end"><th scope="row" width="48%">Div &amp; Yield:</th><td class="yfnc_tabledata1">12.20 (2.50%) </td></tr></table></div></div><div class="yui-g" id="yfi_related_tickers">People viewing <b>AAPL</b> also viewed:<span> <a href="/q?s=APPL&amp;reco=1"><strong>APPL</strong></a> <a href="/q?s=PCLN&amp;reco=1"><strong>PCLN</strong></a> <a href="/q?s=GOOG&amp;reco=1"><strong>GOOG</strong></a> <a href="/q?s=AMZN&amp;reco=1"><strong>AMZN</strong></a> <a href="/q?s=MA&amp;reco=1"><strong>MA</strong></a> <a href="/q?s=CMG&amp;reco=1"><strong>CMG</strong></a></span></div><div id="yfi_tradenow" class="yui-skin-sam"><div id="bd"><div class="sel-container"><button id="btn_trdnow" disabled class="trdnowimg"></button><button id="btn_selbrkr" class="btn-broker-sel"><div class="brokertxt">Select your broker</div><div class="downmenu" id="btn_arrow"></div></button><span id="trdnow_success"></span></div><div id="trdnow_sel" style="display:none"><div id="hd">The broker you select will become the <b>default broker</b> for Trade Now</div><div id="bd"><span class="broker-head">Featured Brokers</span><ul style="width:100%;" class="premium clear"><li><input class="r_selbrkr" name="r_selbrkr" type="radio" value="scottrade">Scottrade<img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://l.yimg.com/dh/ap/ap/default/120529/scottrade_22x20_icon.png')" alt="Scottrade" class="lzbg "></li></ul><ul style="width:100%;" class="nonpremium clear"><li><input class="r_selbrkr" name="r_selbrkr" type="radio" value="tdameritrade">TD Ameritrade</li><li><input class="r_selbrkr custombrkr" name="r_selbrkr" type="radio"><input class="customurl" type="text" id="txt_custombrkr" placeholder="Enter your Broker"></li></ul><input type="hidden" id="trdnow_user_status" value="0"></div><div id="ft"><div class="save-reset-container"><button type="button" id="btn_savebrkr">Select Broker</button><span class="resetlink"><a href="#" id="reset_brkr">Reset</a></span><span class="err_msg" id="trdnow_err"></span></div><div class="feedback-brkr"><a href="http://feedback.yahoo.com/forums/170326-us-finance?.src=FINANCE&amp;.from=TRADENOW&amp;.done=http%3A%2F%2Ffinance.yahoo.com%2Fq%3Fs%3DAAPL%26ql%3D1" target="_blank">Please provide feedback on the new Trade Now function</a></div></div></div></div><div id="trdnow_container"></div></div><style>
+		#yfi_quote_summary_page #ecn_warning{border-top:0; padding-top:0px;}
+		#yfi_compare_broker_btn{top:7px;}
+		#yfi_compare_broker_btn + #ecn_warning {  margin : -8px 0 20px; }
+
+	</style><div id="yfi_compare_broker_btn"><a href="http://finance.yahoo.com/broker-comparison/">Compare Brokers</a></div><div id="ecn_warning">Quotes delayed, except where indicated otherwise. Currency in USD.</div><div id="yfi_tech_ticker" class="yfi_quote_headline"><div class="hd"><h2>Featured on Yahoo! Finance</h2></div><div class="bd"><ul><li><a href="http://finance.yahoo.com/blogs/the-exchange/iphone-fans-investors-already-talking-next-215738056.html">IPhone Fans, Investors Already Talking About Next Year’s Update</a><cite>The Exchange</cite></li><li class="video"><a href="http://finance.yahoo.com/blogs/talking-numbers/dr-doom-tech-bubble-235641529.html" class="video_image" data-ylk="cp:Talking Numbers;o:i;"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://d.yimg.com/hd/cnbc2/lotus/1382018817569_993_21yE6koNZubf1_1_0.jpg?a=cnbc2&amp;c=6f8e52ff851b3faba4db726f3e22358d&amp;mr=0&amp;s=6f7fd637b3848af0891d380d57d52573')" alt="Dr. Doom: We’re in a tech bubble" class="lzbg video_thumb"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://l.yimg.com/d/i/us/fi/pf/images/200712111220/buttons/fp_play_button.gif')" alt="" class="lzbg video_play"></a><a href="http://finance.yahoo.com/blogs/talking-numbers/dr-doom-tech-bubble-235641529.html">Dr. Doom: We’re in a tech bubble</a><cite>Talking Numbers</cite></li><li class="video"><a href="http://finance.yahoo.com/blogs/talking-numbers/why-buy-apple-now-strategist-174333419.html" class="video_image" data-ylk="cp:Talking Numbers;o:i;"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://d.yimg.com/hd/cnbc2/lotus/1381944759090_921_21yDM0oNQTbf1_1_0.jpg?a=cnbc2&amp;c=c04d22420dfd21ca2b1052c66ebc37a9&amp;mr=0&amp;s=a6d01932b5294bbae00a561709f1ae46')" alt="Why you need to buy Apple now: strategist" class="lzbg video_thumb"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://l.yimg.com/d/i/us/fi/pf/images/200712111220/buttons/fp_play_button.gif')" alt="" class="lzbg video_play"></a><a href="http://finance.yahoo.com/blogs/talking-numbers/why-buy-apple-now-strategist-174333419.html">Why you need to buy Apple now: strategist</a><cite>Talking Numbers</cite></li><li class="video"><a href="http://finance.yahoo.com/blogs/daily-ticker/tech-wallet-top-4-mobile-payment-apps-123209083.html" class="video_image" data-ylk="cp:The Daily Ticker;o:i;"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://d.yimg.com/hd/yahoofinance/lotus/1381839159603_609_21yDjWoN1Vbf1_1_0.jpg?a=yahoofinance&amp;c=3accc5f29a3a95d53e927b7b3c35da87&amp;mr=0&amp;s=d693a147c8e55fd1d719ceff22281884')" alt="What’s in Your Tech Wallet? ‘Square Cash’ Unveils a Free New Way to Pay" class="lzbg video_thumb"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://l.yimg.com/d/i/us/fi/pf/images/200712111220/buttons/fp_play_button.gif')" alt="" class="lzbg video_play"></a><a href="http://finance.yahoo.com/blogs/daily-ticker/tech-wallet-top-4-mobile-payment-apps-123209083.html">What’s in Your Tech Wallet? ‘Square Cash’ Unveils a Free New Way to Pay</a><cite>The Daily Ticker</cite></li><li class="video"><a href="http://finance.yahoo.com/blogs/daily-ticker/apple-could-same-problem-steve-jobs-warned-30-142957567.html" class="video_image" data-ylk="cp:The Daily Ticker;o:i;"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://d.yimg.com/hd/yahoofinance/lotus/1381933379359_819_21yDJ6oNPIbf1_1_0.jpg?a=yahoofinance&amp;c=a8e24463a844f34b3148887036ce7970&amp;mr=0&amp;s=b3550cc84ee319f9380703e11fa92171')" alt="Apple Could Have the Same Problem Steve Jobs Warned About 30 Years Ago" class="lzbg video_thumb"><img src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" style="background-image:url('http://l.yimg.com/d/i/us/fi/pf/images/200712111220/buttons/fp_play_button.gif')" alt="" class="lzbg video_play"></a><a href="http://finance.yahoo.com/blogs/daily-ticker/apple-could-same-problem-steve-jobs-warned-30-142957567.html">Apple Could Have the Same Problem Steve Jobs Warned About 30 Years Ago</a><cite>The Daily Ticker</cite></li></ul></div><div class="ft"><span class="view_more_link_off"></span></div></div><div id="yfi_headlines" class="yfi_quote_headline"><div class="hd"><h2 class="inline">Headlines</h2></div><div class="bd"><ul><li><a href="http://us.rd.yahoo.com/finance/external/cbsm/SIG=11iiumket/*http://www.marketwatch.com/News/Story/Story.aspx?guid=31603424-C2D4-D574-34F4-459422DA2A84&amp;siteid=yhoof2" data-ylk="cp:MarketWatch;o:e;">All the latest on the Twitter IPO drama</a><cite>at MarketWatch<span>(Thu 10:18PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/xwscheats/SIG=127rb17oa/*http://wallstcheatsheet.com/stocks/samsung-loses-to-apple-again.html/?ref=YF" data-ylk="cp:Wall St. Cheat Sheet;o:e;">Samsung Loses to Apple, Again</a><cite>at Wall St. Cheat Sheet<span>(Thu 9:37PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/wsj/SIG=12gqv19s4/*http://online.wsj.com/article/SB20001424052702304410204579141602015154472.html?ru=yahoo?mod=yahoo_itp" data-ylk="cp:The Wall Street Journal;o:e;">[$$] Digits | WSJ.com/digits</a><cite>at The Wall Street Journal<span>(Thu 9:29PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/xengadget/SIG=1230qu3oo/*http://www.engadget.com/2013/10/17/apple-patent-multitouch-uspto/?ncid=rss_truncated" data-ylk="cp:Engadget;o:e;">Apple retains multitouch patent thanks to Patent Office ruling, forces competition to seek alternatives</a><cite>at Engadget<span>(Thu 8:39PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/xtechcrunch/SIG=11r8ndfn5/*http://feedproxy.google.com/~r/Techcrunch/~3/DqX83-vqbG4/" data-ylk="cp:TechCrunch;o:e;">Apple CFO Oppenheimer Says New Carbon-Balanced ‘Campus 2′ Will Foster Collaboration</a><cite>at TechCrunch<span>(Thu 7:49PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/mfool/SIG=136v4u31e/*http://www.fool.com/investing/general/2013/10/17/warren-buffett-thinks-apple-is-doing-just-fine.aspx?source=eogyholnk0000001" data-ylk="cp:Motley Fool;o:e;">Warren Buffett Thinks Apple Is Doing Just Fine</a><cite>at Motley Fool<span>(Thu 7:04PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/xwscheats/SIG=136jvap0g/*http://wallstcheatsheet.com/stocks/analyst-heres-why-apple-picked-the-right-iphone-5c-strategy.html/?ref=YF" data-ylk="cp:Wall St. Cheat Sheet;o:e;">Analyst: Here’s Why Apple Picked the Right iPhone 5C Strategy</a><cite>at Wall St. Cheat Sheet<span>(Thu 7:04PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/video/bloomberg/SIG=130p7cnbt/*http://www.bloomberg.com/video/gore-apple-is-a-joy-to-be-a-part-of-XzjOyyfyQAGPq~FmS_vHuQ.html?cmpid=yhoo" data-ylk="cp:Bloomberg;o:e;">[video] Gore: Apple Is a Joy to Be a Part of</a><cite>at Bloomberg<span>(Thu 6:32PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/pssa/SIG=13hcoo62e/*http://seekingalpha.com/article/1752462-apple-earnings-and-guidance-why-i-think-it-will-beat-analysts-estimates?source=yahoo" data-ylk="cp:Seeking Alpha;o:e;">Apple Earnings And Guidance - Why I Think It Will Beat Analysts Estimates</a><cite>at Seeking Alpha<span>(Thu 6:03PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/xwscheats/SIG=14516j2fv/*http://wallstcheatsheet.com/stocks/3-tech-titans-making-noise-apple-demand-is-strong-amazon-gets-taxed-microsofts-windows-8-1.html/?ref=YF" data-ylk="cp:Wall St. Cheat Sheet;o:e;">3 Tech Titans Making Noise: Apple Demand Is Strong, Amazon Gets Taxed, Microsoft’s Windows 8.1</a><cite>at Wall St. Cheat Sheet<span>(Thu 5:34PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/video/cnbc/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000208963&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo" data-ylk="cp:CNBC;o:e;">[video] Facebook at all-time high</a><cite>at CNBC<span>(Thu 5:01PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/mfool/SIG=12sg0orr4/*http://www.fool.com/investing/general/2013/10/17/why-windows-phone-will-be-number-two.aspx?source=eogyholnk0000001" data-ylk="cp:Motley Fool;o:e;">Why Windows Phone Will Be Number 2</a><cite>at Motley Fool<span>(Thu 4:54PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/xtheverge/SIG=13dcbhqgn/*http://www.theverge.com/2013/10/17/4849376/apple-multitouch-patent-upheld-by-us-patent-and-trademark-office" data-ylk="cp:The Verge;o:e;">Apple multitouch patent upheld by US Patent and Trademark Office</a><cite>at The Verge<span>(Thu 4:35PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/xwscheats/SIG=1331mjm9h/*http://wallstcheatsheet.com/stocks/pandoras-cfo-calls-apples-itunes-radio-a-credible-threat.html/?ref=YF" data-ylk="cp:Wall St. Cheat Sheet;o:e;">Pandora’s CFO Calls Apple’s iTunes Radio a ‘Credible Threat’</a><cite>at Wall St. Cheat Sheet<span>(Thu 4:28PM EDT)</span></cite></li><li><a href="http://us.rd.yahoo.com/finance/external/mfool/SIG=13a7taf2p/*http://www.fool.com/investing/general/2013/10/17/apple-and-microsoft-could-be-on-the-verge-of-copyi.aspx?source=eogyholnk0000001" data-ylk="cp:Motley Fool;o:e;">Apple and Microsoft Could Be on the Verge of Copying Samsung</a><cite>at Motley Fool<span>(Thu 4:18PM EDT)</span></cite></li></ul></div><div class="ft"><a class="view_more" href="/q/h?s=AAPL&amp;t=2013-10-17T22:18:00-04:00">
+    				 » More Headlines for AAPL</a><div class="myLinks"><p>Add AAPL Headlines to My Yahoo!</p><a class="my_yahoo_us" href="http://add.my.yahoo.com/add/module?url=http://finance.yahoo.com/rss/headline%3Fs=AAPL&amp;lg=us">+ My Yahoo!</a> <a class="rss_feed" href="http://us.rd.yahoo.com/finance/news/rss/add/*http://finance.yahoo.com/rss/headline?s=AAPL">RSS</a></div></div></div><div id="yfi_press_releases" class="yfi_quote_headline"><div class="hd"><h2>Press Releases</h2></div><div class="bd"><ul><li><a href="http://finance.yahoo.com/news/j-d-power-reports-both-130000790.html" data-ylk="cp:PR Newswire;o:i;">J.D. Power Reports: Both Apple and Samsung Lead in Overall Satisfaction Performance among the U.S. Wireless Tier 1 Carriers, Excelling in All Smartphone Experience Factors</a><cite>PR Newswire<span>(Thu 9:00AM EDT)</span></cite></li><li><a href="http://finance.yahoo.com/news/apple-just-one-many-big-141100457.html" data-ylk="cp:Business Wire;o:i;">Apple Just One of Many Big Guns Entering $4 Billion Indoor Location Market, Says ABI Research</a><cite>Business Wire<span>(Wed, Oct 16)</span></cite></li><li><a href="http://finance.yahoo.com/news/straight-steve-jobs-bedroom-most-140000748.html" data-ylk="cp:PR Newswire;o:i;">Straight from Steve Jobs' Bedroom: The Most Complete Original Hand-Built »Apple 1 Computer« Worldwide! ...and Other Icons in AuctionTeamBreker's Specialty Auction (Nov. 16, 2013)</a><cite>PR Newswire<span>(Tue, Oct 15)</span></cite></li></ul></div><div class="ft"><a class="view_more" href="/q/p?s=AAPL">
+    				 » More Press Releases for AAPL</a></div></div><div id="yfi_reports" class="yfi_quote_headline"><div class="hd"><h2>Reports</h2></div><div class="bd"><ul><li><a href="http://reports.finance.yahoo.com/w0?r=37517382:1" data-ylk="cp:;o:i;">AAPL: Due Diligence Review: Forensic Earnings and Valuation</a><cite>New Constructs, LLC<span>(Oct 17)</span></cite></li><li><a href="http://reports.finance.yahoo.com/w0?r=25810218:1" data-ylk="cp:;o:i;">ValuEngine Detailed Valuation Report for AAPL</a><cite>ValuEngine, Inc.<span>(Oct 17)</span></cite></li><li><a href="http://reports.finance.yahoo.com/w0?r=35588159:1" data-ylk="cp:;o:i;">Trading Report for (AAPL). A detailed report, including free correlated market...</a><cite>Stock Traders Daily<span>(Oct 17)</span></cite></li></ul></div><div class="ft"><a class="view_more" href="/q/rr?s=AAPL&amp;t=">
+    				 » More Reports for AAPL</a></div></div><div id="yfi_media_net" style="width:475px;height:200px;"></div><script id="mNCC" type="text/javascript"> 
+		medianet_width='475';
+		medianet_height= '200';
+		medianet_crid='625102783';
+		medianet_divid = 'yfi_media_net';
+	</script><script type="text/javascript">
+	ll_js.push({
+	    'file':'http://mycdn.media.net/dmedianet.js?cid=8CUJ144F7'
+	});
+	</script></div><div class="yui-u" style="width:300px;float:left;"><div class="yfi_summary_chart" style="float:none;" id="yfi_summary_chart"><div class="chart"><a href="echarts?s=AAPL+Interactive#symbol=AAPL;range=1d"><img src="http://chart.finance.yahoo.com/t?s=AAPL&amp;lang=en-US&amp;region=US&amp;width=300&amp;height=180" alt="Apple Inc. (AAPL)" width="300" height="180"></a><div id="display_links" class="display_links"><ul><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=1d">1d</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=5d">5d</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=1m">1m</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=3m">3m</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=6m">6m</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=1y">1y</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=2y">2y</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=5y">5y</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range=my">max</a></li><li><a href="/echarts?s=AAPL+Interactive#symbol=AAPL;range="></a></li></ul><a href="http://edit.finance.yahoo.com/e5b?.vk=s&amp;amp;.intl=us&amp;amp;.done=http://finance.yahoo.com/q?s=AAPL">customize chart</a></div></div></div><div id="yfi_ads_lrec"><!-- SpaceID=0 robot -->
+</div><span id="yfs_ad_" ></span><span id="yfs_ad_" ></span><div id="yfi_comparison" class="yfi_suplimental_datum"><div class="hd"><h2>Comparison</h2></div><div class="bd"><table><thead><tr><th class="name" scope="col">Symbol</th><th class="percent_change" scope="col">% Chg</th><th scope="col">Mkt Cap</th></tr></thead><tbody><tr><td class="name highlight_row">AAPL</td><td class="highlight_row"><span id="yfs_pp0_aapl"><img width="10" height="14" style="margin-right:-2px;" border="0" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="pos_arrow" alt="Up"> <b class="
+      	        yfi-price-change-up
+            ">0.68%</b></span></td><td class="highlight_row"><span id="yfs_j10_aapl">458.34B</span></td></tr><tr><td class="name"><a href="/q?s=BC94.L" title="Samsung Electronics Co. Ltd.">BC94.L</a></td><td><span id="yfs_pp0_bc94.l"><img width="10" height="14" style="margin-right:-2px;" border="0" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="pos_arrow" alt="Up"> <b class="
+      	        yfi-price-change-up
+            ">3.37%</b></span></td><td><span id="yfs_j10_bc94.l">179.68B</span></td></tr><tr><td class="name"><a href="/q?s=AAPL.MX" title="Apple Inc.">AAPL.MX</a></td><td><span id="yfs_pp0_aapl.mx"><img width="10" height="14" style="margin-right:-2px;" border="0" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="neg_arrow" alt="Down"> <b class="
+                yfi-price-change-down
+            ">0.23%</b></span></td><td><span id="yfs_j10_aapl.mx">5.85T</span></td></tr><tr><td class="name"><a href="/q?s=PHGN.MX" title="Koninklijke Philips N.V">PHGN.MX</a></td><td><span id="yfs_pp0_phgn.mx"> <b class="
+                yfi-price-no-change
+            ">0.00%</b></span></td><td><span id="yfs_j10_phgn.mx">298.70B</span></td></tr></tbody></table></div><div class="ft"><a href="q/in?s=AAPL">&#187; More Competitors</a><div id="company_details"><ul><li><span class="label">Sector</span><ul><li><a href="http://biz.yahoo.com/p/3conameu.html">Consumer Goods</a></li></ul></li><li><span class="label">Industry</span><ul><li><a href="http://biz.yahoo.com/ic/314.html">Electronic Equipment</a></li></ul></li></ul></div></div></div><div id="yfi_key_stats" class="yfi_suplimental_datum"><div class="hd"><h2>Key Statistics</h2></div><div class="bd"><table><tr><th scope="row" width="50%">Forward P/E <small>(1 yr)</small>:</th><td class="yfnc_tabledata1">11.71</td></tr><tr><th scope="row" width="50%">P/S <small>(ttm)</small>:</th><td class="yfnc_tabledata1">2.69</td></tr><tr><th scope="row" width="50%">Ex-Dividend Date:</th><td class="yfnc_tabledata1">08-Aug-13</td></tr></table></div><div class="ft"><a href="/q/ks?s=AAPL">&#187; More Key Statistics</a></div></div><div id="yfi_analysts" class="yfi_suplimental_datum"><div class="hd"><h2>Analysts</h2></div><div class="bd"><table><tr><th scope="row" width="50%">Annual EPS Est<small>
+                      (Sep-13)
+                    </small>:</th><td class="yfnc_tabledata1">39.34</td></tr><tr><th scope="row" width="50%">Quarterly EPS Est<small>
+                      (Sep-13)
+                    </small>:</th><td class="yfnc_tabledata1">7.88</td></tr><tr><th scope="row" width="50%">Mean Recommendation*:</th><td class="yfnc_tabledata1">2.0</td></tr><tr><th scope="row" width="50%">PEG Ratio <small>(5 yr expected)</small>:</th><td class="yfnc_tabledata1">0.85</td></tr></table></div><div class="ft"><p>* (Strong Buy) 1.0 - 5.0 (Sell)</p><a href="/q/ao?s=AAPL">Analyst Opinion</a> | 
+                        <a href="/q/ae?s=AAPL">Estimates</a></div></div><div id="yfi_business_summary"><div class="hd"><h2>Business Summary</h2></div><div class="bd">Apple Inc., together with subsidiaries, designs, manufactures, and markets mobile communication and media devices, personal computing products, and portable digital music players worldwide. <a href="/q/pr?s=AAPL" class="view_more">View More</a></div><div class="ft"><a href="/q/pr?s=AAPL">Company Profile</a> | <a href="/q/in?s=AAPL">Industry</a></div></div><!-- SpaceID=0 robot -->
+<div id="yfi_toolbox" class="yfi_suplimental_datum"><div class="hd"><h2>Toolbox</h2></div><div class="bd"><ul><li class="alert"><a href="/stock-alerts/stock-watch/add/?.addsymbol=AAPL&amp;.done=http%3A%2F%2Ffinance.yahoo.com%2Fq%3Fs%3DAAPL%26ql%3D1">Set Alert for AAPL</a></li><li class="save"><a href="http://download.finance.yahoo.com/d/quotes.csv?s=AAPL&amp;f=sl1d1t1c1ohgv&amp;e=.csv">Download Data (delayed)</a></li><li class="report"><a href="http://yahoo.ar.wilink.com/?ticker=AAPL&amp;mkt_code=YAHSUMQTA">Download Annual Report</a></li><li class="mobile"><a href="http://mobile.yahoo.com/finance">Updates on your phone</a></li><li class="add"><a href="http://finance.yahoo.com/badges/">Add Quotes to Your Web Site</a></li></ul></div><div class="ft"><div class="myLinks"><p>Add AAPL Headlines to My Yahoo!</p><a class="my_yahoo_us" href="http://add.my.yahoo.com/add/module?url=http://finance.yahoo.com/rss/headline%3Fs=AAPL&amp;lg=us">+ My Yahoo!</a> <a class="rss_feed" href="http://us.rd.yahoo.com/finance/news/rss/add/*http://finance.yahoo.com/rss/headline?s=AAPL">RSS</a></div></div></div><span id="yfs_ad_" ></span><span id="yfs_ad_" ></span></div><iframe id="fccall" style="display: none;"></iframe><script type="text/javascript">
+	ll_js.push({
+	    'file':'http://l.yimg.com/zz/combo?d/lib/darla/fc_0.2.3.js&d/lib/darla/util_0.2.3.js&d/lib/darla/renderers/complex_renderer_0.2.3.js',
+	    'success_callback' : function(){
+	    YUI().use('node','event','json', function (Y) {
+		var mime = Y.JSON.stringify({'site-attribute' : 'LREC="300x250" cachehint="83067333" indices="^IXIC" ticker="AAPL" content="ticker=AAPL;"', 'ad-logoption' : 'NOPAGEVIEW'});
+		new_mime = mime.replace(/component[A-Z,0-9]{1,}\;/g, '');
+		fnl_mime = new_mime.replace("content=\\\"", "content=\\\"no_expandable;"); //This is required for darla
+
+		var darlaConfig = {
+		    callFrame: "fccall",
+		    callScript: "/darla/fc.php",
+		    domain: 1,
+		    rotation: 0,
+		    autoRotation: false,
+		    property: "finance",
+		    destinationMap: { "LREC": "yfi_ads_lrec" },
+		    rendererOptions : { 
+					"dh": "finance.yahoo.com", 
+					"mdUrl" : "/darla/md.php" 
+				      },
+			options : { 
+				    "replaceCurrMap": { 
+					    "LREC": "yfi_ads_lrec" 
+				    } 
+				  },
+		    otherParams: {
+			"t_e" : 1,
+			".intl" : "us"
+		    },
+		    events: {
+			"autoRotateQSPAds": {
+					      lv: 2, 
+					      sp: 83067333,
+					      ps: "LREC", 
+					      npv: false, 
+					      em: fnl_mime
+					     }
+		    }
+		};
+		YAHOO.ads.darla.setConfig( darlaConfig );
+		var ad_interval = null;
+		var ad_freq = 60000
+		
+		Y.one(window).on('load', function (e){
+		    if( ad_interval == null ){
+			ad_interval = setInterval( function(){
+			    YAHOO.ads.darla.event('autoRotateQSPAds');
+			}, ad_freq);
+		    }
+		});
+		Y.one(window).on('focus', function (e){
+		    if( ad_interval == null ){
+			ad_interval = setInterval( function(){
+			//console.log("Triggereing darla event");
+			//console.log(YAHOO.ads.darla._config);
+			    YAHOO.ads.darla.event('autoRotateQSPAds');
+			}, ad_freq);
+		    }
+		});
+
+		Y.one(window).on('blur', function (e){
+		    clearInterval( ad_interval );
+		    ad_interval = null;
+		});    
+	    });
+	    }
+	});
+	</script></div><div class="yfi_ad_s"></div></div>
+</div>
+<div id="yfi_ticker_container" class="yfi_ticker_container"><div id="yfi_stock_ticker"><div id="yfi_stock_ticker_settings_icon"></div><div id="yfi_stock_ticker_close_icon"></div><canvas id="stock_ticker" width="910" height="21">Your browser doesn't support canvas</canvas></div><div id="yfi_stock_ticker_settings" class="hide yfi_st_settings"><div class="yfi_ticker_hd"><em class="default">SETTINGS</em></div><div class="yfi_ticker_bd"><form method="post" action="#" id="ttpanel"><input type="hidden" name="userSignedIn" id="yfi_user_signed_in" value="1"><input type="hidden" name="ustreaming" id="ustreaming" value="0"><input type="hidden" name="userPreferences" id="yfi_user_preferences" value="1"><fieldset><legend>Scrolling</legend><input type="hidden" name="ttScroll" id="yfi_tt_scroll" value="0"><input type="radio" name="isPaused" id="yfi_ticker_resume" value="0" checked><label for="yfi_ticker_resume" class="first">On</label><input type="radio" name="isPaused" id="yfi_ticker_pause" value="1"><label for="yfi_ticker_pause" class="first">Off</label></fieldset><fieldset><legend>Speed</legend><input type="radio" name="scrollingSpeed" id="yfi_ticker_speed1" value="0" checked><label for="yfi_ticker_speed1" class="first">Slow</label><input type="radio" name="scrollingSpeed" id="yfi_ticker_speed2" value="1"><label for="yfi_ticker_speed2" class="first">Med</label><input type="radio" name="scrollingSpeed" id="yfi_ticker_speed3" value="2"><label for="yfi_ticker_speed3" class="first">Fast</label></fieldset><fieldset><legend for="tickerList">Display</legend><input type="hidden" name="ttDisplay" id="yfi_tt_display" value="0"><select id="tickerList"><option id="yfi_ticker_rq" selected>My Recent Quotes</option><option id="yfi_ticker_ms">Market Summary</option></select></fieldset><fieldset><legend>Price</legend><input type="radio" name="tickerChange" id="yfi_ticker_change1" value="0" checked><label for="yfi_ticker_change1" class="first">Change</label><input type="radio" name="tickerChange" id="yfi_ticker_change2" value="1"><label for="yfi_ticker_change2" class="first">% Change</label></fieldset><button type="submit" id="submitStSettings">Save</button><a href="http://feedback.help.yahoo.com/feedback.php?.src=FINANCE&amp;.from=tickertape&amp;.done=http://finance.yahoo.com/q?s=AAPL&amp;ql=1" id="tt_submit_feedback" target="_blank">Submit Feedback</a></form></div></div></div><div id="yfi_ft"><div id="y-footer"><div class="footer_copyright"><div class="yfi_doc"><div class="footer_legal">Copyright &amp;copy; 2009 Yahoo! All rights reserved.</div><div class="footer_legal"></div><div class="footer_disclaimer"><p>Quotes are <strong>real-time</strong> for NASDAQ, NYSE, and NYSE MKT. See also delay times for <a href="http://help.yahoo.com/l/us/yahoo/finance/quotes/fitadelay.html">other exchanges</a>. All information provided "as is" for informational purposes only, not intended for trading purposes or advice. Neither Yahoo! nor any of independent providers is liable for any informational errors, incompleteness, or delays, or for any actions taken in reliance on information contained herein. By accessing the Yahoo! site, you agree not to redistribute the information found therein. Real-Time continuous streaming quotes are available through our <a href="http://billing.finance.yahoo.com/realtime_quotes/signup?.src=quote&amp;.refer=quote">premium service.</a> You may turn streaming quotes on or off.</p><p>Fundamental company data provided by <a href="http://www.capitaliq.com">Capital IQ</a>. Historical chart data and daily updates provided by <a href="http://www.csidata.com">Commodity Systems, Inc. (CSI)</a>. International historical chart data, daily updates, fund summary, fund performance, dividend data and Morningstar Index data provided by <a href="http://www.morningstar.com/">Morningstar, Inc.</a> Orderbook quotes are provided by <a href="http://batstrading.com">BATS Exchange</a>. US Financials data provided by <a href="http://www.edgar-online.com/">Edgar Online</a> and all other Financials provided by <a href="http://www.capitaliq.com">Capital IQ</a>. International historical chart data, daily updates, fundAnalyst estimates data provided by <a href="http://thomsonreuters.com/">Thomson Financial Network</a>. All data povided by Thomson Financial Network is based solely upon research information provided by third party analysts. Yahoo! has not reviewed, and in no way endorses the validity of such data. Yahoo! and ThomsonFN shall not be liable for any actions taken in reliance thereon.</p></div></div></div></div></div>
+<div id="spaceid" style="display:none;">83067333</div><script type="text/javascript">
+                if(typeof YAHOO == "undefined"){YAHOO={};}
+                if(typeof YAHOO.Finance == "undefined"){YAHOO.Finance={};}
+                if(typeof YAHOO.Finance.SymbolSuggestConfig == "undefined"){YAHOO.Finance.SymbolSuggestConfig=[];}
+
+                    YAHOO.Finance.SymbolSuggestConfig.push({
+                        dsServer:'http://d.yimg.com/aq/autoc',
+                        dsRegion:'US',
+                        dsLang:'en-US',
+                        dsFooter:'<div class="moreresults"><a class="[[tickdquote]]" href="http://finance.yahoo.com/lookup?s=[[link]]">Show all results for [[tickdquote]]</a></div><div class="tip"><em>Tip:</em> Use comma (,) to separate multiple quotes. <a href="http://help.yahoo.com/l/us/yahoo/finance/quotes/quotelookup.html">Learn more...</a></div>',
+                        acInputId:'txtQuotes',
+                        acInputFormId:'quote',
+                        acContainerId:'quoteContainer',
+                        acModId:'mediaquotessearch',
+			acInputFocus:'0'
+                    });
+				</script><script type="text/javascript" src="http://l1.yimg.com/bm/combo?fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yui-min-3.5.1.js&amp;fi/common/p/d/static/js/2.0.291395/yui_2.8.0/build/yuiloader-dom-event/2.0.0/mini/yuiloader-dom-event.js&amp;fi/common/p/d/static/js/2.0.291395/yui_2.8.0/build/container/2.0.0/mini/container.js&amp;fi/common/p/d/static/js/2.0.291395/yui_2.8.0/build/datasource/2.0.0/mini/datasource.js&amp;fi/common/p/d/static/js/2.0.291395/yui_2.8.0/build/autocomplete/2.0.0/mini/autocomplete.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/ylc_1.9.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_loader.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_symbol_suggest.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_init_symbol_suggest.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_nav_topnav_init.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_nav_topnav.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_nav_portfolio.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_fb2_expandables.js&amp;fi/common/p/d/static/js/2.0.291395/yui_2.8.0/build/get/2.0.0/mini/get.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_lazy_load.js&amp;fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfs_concat.js&amp;fi/common/p/d/static/js/2.0.291395/translations/2.0.0/mini/yfs_l10n_en-US.js"></script><span id="yfs_params_vcr" style="display:none">{"yrb_token" : "YFT_MARKET_CLOSED", "tt" : "1382063737", "s" : "aapl", "k" : "a00,a50,b00,b20,b30,b60,c10,c60,c63,c64,c81,c82,c85,c86,g00,g53,h00,h53,j10,l10,l84,l85,l86,l90,o40,o50,p20,p40,p43,p44,t10,t50,t53,t54,v00,v53,z08,z09", "o" : "aapl,aapl.mx,bc94.l,phgn.mx,^dji,^ixic,aapl,^ixic,^gspc,^dji,^tnx,^vix,^rut,EURUSD=X", "j" : "c10,c63,j10,l10,l84,p20,p43,t10,t53,v00", "e" : "1", "version" : "1.0", "market" : {"NAME" : "U.S.", "ID" : "us_market", "TZ" : "EDT", "TZOFFSET" : "-14400", "open" : "", "close" : "", "flags" : {}} , "market_status_yrb" : "YFT_MARKET_CLOSED" , "portfolio" : { "fd" : { "txns" : [ ]},"dd" : "","pc" : "","pcs" : ""}, "SINGLE_QUOTE_PAGE" : { "symbol" : "AAPL","name" : "Apple Inc."}, "STREAMER_SERVER" : "http://streamerapi.finance.yahoo.com", "DOC_DOMAIN" : "finance.yahoo.com", "localize" : "0" , "throttleInterval" : "1000" , "arrowAsChangeSign" : "true" , "up_arrow_icon" : "http://l.yimg.com/a/i/us/fi/03rd/up_g.gif" , "down_arrow_icon" : "http://l.yimg.com/a/i/us/fi/03rd/down_r.gif" , "up_color" : "green" , "down_color" : "red" , "pass_market_id" : "0" , "mu" : "1" , "lang" : "en-US" , "region" : "US" , "ticker_currency_sym" : "USD" }</span><span style="display:none" id="yfs_enable_chrome">1</span><input type="hidden" id=".yficrumb" name=".yficrumb" value=""><script type="text/javascript">
+				YAHOO.util.Event.addListener(window, "load", function(){YAHOO.Finance.Streaming.init();});
+			</script><script type="text/javascript"> 	 
+		if(typeof YAHOO.Finance.TickerTapeConfig == "undefined"){YAHOO.Finance.TickerTapeConfig={};}
+                YAHOO.Finance.TickerTapeConfig={ "config" : [
+                        { 'mstickers': "^ixic,^gspc,^dji,^tnx,^vix,^rut,EURUSD=X",
+                          'mstickersdn': "'Nasdaq','S&P 500','Dow','10 Yr T-Note','VIX','Russel 2000','EUR/USD'"
+			}
+                ] }
+		ll_js.push({
+			    'file': 'http://l1.yimg.com/bm/lib/fi/common/p/d/static/js/2.0.291395/2.0.0/yfi_ticker.js'
+		});
+	        var appleDevicePattern = new RegExp("(iPad|iPhone|iPod)"); 	 
+	        if ( navigator.userAgent.match( appleDevicePattern ) ) { 	 
+	                 YAHOO.util.Dom.setStyle('yfi_stock_ticker','position','static'); 	 
+	        } else { 	 
+	  		// Do nothing 
+	        } 	 
+	        </script><script type="text/javascript">
+	if(typeof YAHOO == "undefined"){YAHOO={};}
+	if(typeof YAHOO.Finance == "undefined"){YAHOO.Finance={};}
+	if(typeof YAHOO.Finance.TradeNowConfig == "undefined"){YAHOO.Finance.TradeNowConfig={};}
+	YAHOO.Finance.TradeNowConfig={ "config" : [
+	
+	{'name': "Scottrade",
+	 'id':"scottrade",
+	 'broker_url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/scottrade/SIG=12humu34b/*http%3A//ad.wsod.com/click/8bec9b10877d5d7fd7c0fb6e6a631357/2924.2065.img.TEXT/",
+	 'button_url': "http://l.yimg.com/dh/ap/ap/default/120605/scottrade.png"
+	},
+	
+	{'name': "TD Ameritrade",
+	 'id':"tdameritrade",
+	 'broker_url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/tdameritrade/SIG=1276fspve/*http%3A//ad.doubleclick.net/clk;266320453;92180356;e;pc=%5BTPAS_ID%5D",
+	 'button_url': ""
+	},
+	
+	],
+	"custom": [
+	
+	{'name': "Charles Schwab",
+		'id':"cha",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/cha/SIG=111op6b98/*http%3A//www.charlesschwab.com/"
+	},
+	
+	{'name': "ChoiceTrade",
+		'id':"cho",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/cho/SIG=10vuf427i/*http%3A//www.choicetrade.com/"
+	},
+	
+	{'name': "CobraTrading",
+		'id':"cobra",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/cobra/SIG=110qe5kpe/*http%3A//www.cobratrading.com/"
+	},
+	
+	{'name': "E*TRADE",
+		'id':"etrade",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/etrade/SIG=1432821h8/*http%3A//ad.doubleclick.net/clk;257649208;81581328;s?https://us.etrade.com/home?SC=S047401%26ch_id=D%26s_id=AAPL%26o_id=60DAY+500"
+	},
+	
+	{'name': "Fidelity",
+		'id':"fidelity",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/fidelity/SIG=11mpae8qu/*http%3A//ad.doubleclick.net/clk;267446346;93237209;q"
+	},
+	
+	{'name': "Forex.com",
+		'id':"for",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/for/SIG=10ppr36vm/*http%3A//www.forex.com/"
+	},
+	
+	{'name': "FXCM",
+		'id':"fx",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/fx/SIG=10ogncgck/*http%3A//www.fxcm.com/"
+	},
+	
+	{'name': "InteractiveBrokers",
+		'id':"int",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/int/SIG=11iqnp0oc/*http%3A//www.interactivebrokers.com/ibg/main.php"
+	},
+	
+	{'name': "Investrade",
+		'id':"invest",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/invest/SIG=10udtae39/*http%3A//www.investrade.com/"
+	},
+	
+	{'name': "Just2Trade",
+		'id':"just",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/just/SIG=10uevuv9i/*http%3A//www.just2trade.com/"
+	},
+	
+	{'name': "MBTrading",
+		'id':"mbt",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/mbt/SIG=10tb3q145/*http%3A//www.mbtrading.com/"
+	},
+	
+	{'name': "Merrill Edge",
+		'id':"mer",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/mer/SIG=10v7kj42c/*http%3A//www.merrilledge.com/"
+	},
+	
+	{'name': "Muriel Siebert",
+		'id':"mur",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/mur/SIG=119ksq92e/*https%3A//www.siebertnet.com/index.aspx"
+	},
+	
+	{'name': "OptionsHouse",
+		'id':"options",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/options/SIG=110lr3nem/*http%3A//www.optionshouse.com/"
+	},
+	
+	{'name': "OptionsXpress",
+		'id':"option",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/option/SIG=111nkjpph/*http%3A//www.optionsxpress.com/"
+	},
+	
+	{'name': "ShareBuilder",
+		'id':"share",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/share/SIG=110du8ojf/*http%3A//www.sharebuilder.com/"
+	},
+	
+	{'name': "SogoTrade",
+		'id':"sogo",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/sogo/SIG=11ckg22i1/*http%3A//www.sogotrade.com/s1/Default.aspx"
+	},
+	
+	{'name': "SpeedTrader",
+		'id':"speed",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/speed/SIG=10vfcf7kt/*http%3A//www.speedtrader.com/"
+	},
+	
+	{'name': "T.RowePrice ",
+		'id':"tr",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/tr/SIG=10udaosbm/*http%3A//www.troweprice.com/"
+	},
+	
+	{'name': "TradeKing",
+		'id':"tradek",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/tradek/SIG=10tmv0evl/*http%3A//www.tradeking.com/"
+	},
+	
+	{'name': "Trademonster",
+		'id':"tradem",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/tradem/SIG=110i5lpg5/*http%3A//www.trademonster.com/"
+	},
+	
+	{'name': "Tradestation",
+		'id':"trades",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/trades/SIG=110mr085i/*http%3A//www.tradestation.com/"
+	},
+	
+	{'name': "USAA Brokerage",
+		'id':"usaa",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/usaa/SIG=11dq84kuu/*https%3A//www.usaa.com/inet/ent_logon/Logon"
+	},
+	
+	{'name': "Vanguard",
+		'id':"van",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/van/SIG=11k3mo4s4/*https%3A//personal.vanguard.com/us/CorporatePortal"
+	},
+	
+	{'name': "Wellstrade",
+		'id':"wells",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/wells/SIG=11dmo41jt/*https%3A//www.wellsfargo.com/investing/more"
+	},
+	
+	{'name': "Zecco",
+		'id':"zec",
+		 'url': "http://us.rd.yahoo.com/finance/quotes/TradeNow/zec/SIG=10p2g20rp/*http%3A//www.zecco.com/"
+	},
+	
+	],
+	"ywa":"10001840545256",
+	"txt_selbrkr": "Change your broker",
+	"txt_nobrkr": "Select your broker"
+	};
+
+	ll_js.push({
+	'file': "http://l1.yimg.com/bm/combo?fi/common/p/d/static/js/2.0.291395/yui_2.8.0/build/animation/2.0.0/mini/animation.js&fi/common/p/d/static/js/2.0.291395/2.0.0/mini/yfi_tradenow.js" 
+    });
+
+    ll_js.push({
+	'file': 'http://d.yimg.com/mi/ono/ywa.js',
+	'success_callback' : function(){
+	var YWATracker = YWA.getTracker("10001840545256");
+	YWATracker.setDocumentName("Quotes");
+	YWATracker.setDocumentGroup("Quote");
+	YWATracker.setCF(7,"83067333");
+	YWATracker.setCF(8,"us");
+	YWATracker.setCF(9,"en-US");
+	
+	YWATracker.submit()
+	} 
+    });
+</script><script type="text/javascript">
+		// set side nav height
+		(function() {
+			var nav = YAHOO.util.Dom.get("yfi_investing_nav");
+			if (nav) {
+				var content = YAHOO.util.Dom.get("yfi_investing_content");
+				if (nav.offsetHeight < content.offsetHeight) {
+					nav.style.height = content.offsetHeight + "px";
+				}
+			}
+		}());		
+	</script><span id="yfs_ad_" ></span></body>
+<script type="text/javascript">
+	ll_js.push({
+	    'file':'http://l.yimg.com/ss/rapid-3.9.js',
+	    'success_callback' : function(){
+	       if(window.RAPID_ULT) {
+	           var conf = {
+			        compr_type:'deflate', 
+	                tracked_mods:window.RAPID_ULT.tracked_mods, 
+			        keys:window.RAPID_ULT.page_params, 
+			        spaceid:83067333,
+			        client_only:0,
+			        webworker_file:"\/__rapid-worker-1.1.js",
+				nofollow_class:'rapid-nf'
+		        };
+	            window.ins = new YAHOO.i13n.Rapid(conf); //Making ins a global variable because it might be needed by other module js
+	       }
+	    }
+	});
+	</script><!--
+    	    Begin : Page level configs for rapid 
+	    Configuring modules for a page in one place because having a lot of inline scripts will not be good for performance
+	--><script type="text/javascript">
+	    window.RAPID_ULT ={
+		tracked_mods:{
+		    'navigation':'Navigation',
+		    'marketindices' : 'Market Indices',
+		    'yfi_investing_nav' : 'Left nav',
+		    'yfi_rt_quote_summary' : 'Quote Summary Bar',
+		    'yfi_related_tickers' : 'Related Tickers',
+		    'searchQuotes':'Quote Bar',
+		    'yfi_summary_chart' : 'Baby chart on QSP',
+		    'yfi_tradenow' : 'Trade Now',
+		    'yfi_compare_broker_btn' : 'Compare Broker',
+		    'yfi_tech_ticker' : 'Exclusives',
+		    'yfi_headlines' : 'Headlines',
+		    'yfi_press_releases' : 'Press Releases',
+		    'yfi_reports' : 'Reports',
+		    'yfi_comparison' : 'Comparison',
+		    'yfi_key_stats' : 'Key Statistics',
+		    'yfi_analysts' : 'Analysts',
+		    'yfi_business_summary' : 'Business Summary',
+		    'yfi_toolbox' : 'Toolbox',
+		    'yfi_ft' : 'Footer'
+		},
+		page_params:{
+		    'pstcat' : 'Quotes',
+		    'pt' : 'Quote Leaf Pages',
+		    'pstth' : 'Quote Summary Page'
+		}
+	    }
+	</script></html>
+<!-- xslt7.finance.sp2.yahoo.com uncompressed/chunked Fri Oct 18 02:35:37 UTC 2013 -->
+<!-- c26.finance.sp2.yahoo.com uncompressed Fri Oct 18 02:35:37 UTC 2013 -->

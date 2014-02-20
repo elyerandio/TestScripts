@@ -1,0 +1,4 @@
+car,weight,velocity
+audi,2.6,110.7
+opel,1.4,51.2
+benz,3.2,89.1

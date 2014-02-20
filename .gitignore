@@ -1,0 +1,10 @@
+.git
+*.swp
+*~
+*pyc
+*exe
+build
+dist
+*.sw?
+.ipynb_checkpoints
+venv
